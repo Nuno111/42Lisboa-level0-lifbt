@@ -14,7 +14,7 @@ To compile this project with all the bonus funtions:
 make bonus
 ```
 
-## contact
+## Contact
 
 For any questions regarding my project email me at: Nuno_c11@hotmail.com
 
