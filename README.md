@@ -2,6 +2,8 @@
 
 The aim of this project is to code a C library regrouping usual functions will be allowed to use in all other projects.
 
+All code is written in accordance to the norminette version running at the time of project completion.
+
 ## How to use
 
 To compile this project without the bonus:
